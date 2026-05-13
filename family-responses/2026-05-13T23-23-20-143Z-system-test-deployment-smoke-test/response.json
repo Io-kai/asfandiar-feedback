@@ -1,0 +1,13 @@
+{
+  "person": "System Test",
+  "set": "either",
+  "questionId": "deployment-smoke-test",
+  "question": "Can the deployed family response backend save to GitHub?",
+  "answer": "Smoke test from deployment verification after shared token redeploy. This can be deleted after confirming the archive path.",
+  "chapter": "",
+  "recordedAt": "2026-05-13T23:24:00.000Z",
+  "receivedAt": "2026-05-13T23:23:20.143Z",
+  "sourceUrl": "https://asfandiar-io-kais-projects.vercel.app/#family",
+  "userAgent": "codex-deployment-check",
+  "audio": null
+}
