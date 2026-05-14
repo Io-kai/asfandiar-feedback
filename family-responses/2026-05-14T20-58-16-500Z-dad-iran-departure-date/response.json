@@ -1,0 +1,12 @@
+{
+  "person": "Dad",
+  "set": "dad",
+  "questionId": "iran-departure-date",
+  "question": "When leaving Iran, do you remember whether the flight was August 3 or August 18, 1975?",
+  "answer": "The flight was August 18, 1975.",
+  "chapter": "",
+  "recordedAt": "2026-05-14T20:58:16.370Z",
+  "receivedAt": "2026-05-14T20:58:16.500Z",
+  "sourceUrl": "https://asfandiar.vercel.app/#family",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
+}
