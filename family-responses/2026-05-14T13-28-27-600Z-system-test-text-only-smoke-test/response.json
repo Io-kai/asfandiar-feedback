@@ -1,0 +1,13 @@
+{
+  "person": "System Test",
+  "set": "either",
+  "questionId": "text-only-smoke-test",
+  "question": "Can the simplified text-only family form save to GitHub?",
+  "answer": "Smoke test after removing the voice recorder controls.",
+  "chapter": "",
+  "recordedAt": "2026-05-14T13:28:30.000Z",
+  "receivedAt": "2026-05-14T13:28:27.600Z",
+  "sourceUrl": "https://asfandiar-io-kais-projects.vercel.app/#family",
+  "userAgent": "codex-text-only-check",
+  "audio": null
+}
