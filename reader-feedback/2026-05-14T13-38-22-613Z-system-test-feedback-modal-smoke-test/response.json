@@ -1,0 +1,12 @@
+{
+  "person": "System Test",
+  "set": "feedback",
+  "questionId": "feedback-modal-smoke-test",
+  "question": "Feedback modal smoke test",
+  "answer": "This verifies general feedback now saves directly to reader-feedback without GitHub issues.",
+  "chapter": "Chapter 1 — The Half Hour",
+  "recordedAt": "2026-05-14T13:39:00.000Z",
+  "receivedAt": "2026-05-14T13:38:22.613Z",
+  "sourceUrl": "https://asfandiar-io-kais-projects.vercel.app/#1",
+  "userAgent": "codex-feedback-modal-check"
+}
