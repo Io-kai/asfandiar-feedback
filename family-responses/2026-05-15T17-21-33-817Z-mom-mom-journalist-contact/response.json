@@ -1,0 +1,12 @@
+{
+  "person": "Mom",
+  "set": "mom",
+  "questionId": "mom-journalist-contact",
+  "question": "Did the journalist ever contact the family later?",
+  "answer": "don,",
+  "chapter": "",
+  "recordedAt": "2026-05-15T17:21:33.788Z",
+  "receivedAt": "2026-05-15T17:21:33.817Z",
+  "sourceUrl": "https://asfandiar.vercel.app/#family",
+  "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.5 Safari/605.1.15"
+}
