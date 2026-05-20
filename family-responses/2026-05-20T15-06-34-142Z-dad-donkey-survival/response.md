@@ -1,0 +1,18 @@
+# Dad - donkey-survival
+
+- Person: Dad
+- Question set: dad
+- Question ID: donkey-survival
+- Recorded at: 2026-05-20T15:06:33.903Z
+- Received at: 2026-05-20T15:06:34.142Z
+- Source URL: https://shukri.net/#family
+
+## Question
+
+On the night the Peshmerga came over the eastern face and overran the garrison with bayonets, where exactly were you — inside the clinic, in your sleeping quarters, somewhere else? You said you 'managed to escape without getting killed.' How did you actually survive? Did the Peshmerga know that you were the doctor who had given them the plan and that you were not to be harmed? Were you spared, hidden, captured and released, or did you slip out some other way?
+
+## Answer
+
+When the Peshmerga overran our clinics and our unit, I was inside my clinic. We all retreated to our base behind the Hundrain Mountain, which so far the Peshmerga didn't have access to or couldn't attack. That's how I stayed safe and was not killed.When the attack started, we all went inside our hideout, a big area on the slope of the muddy mountain there. We dug it out to become a safe place to hide. That is how I hid myself, although the messenger sent by Fakher Mergasuri definitely had instructions that, no matter what, I had to stay safe and be away from harm.The messenger said, "I was sent by Fakher Mergasuri. He wanted to make sure that you are unharmed and you are still alive."
+
+At the time, I was back in the city of Suleymaniyah, on the outskirts of my hometown. I told him that I am, thanked him, and confirmed that I am still alive.Yes, I told the messenger I am alive and well and that I am back in the city of Suleymaniyah, staying at a friend’s house. I didn’t go back to my parents’ house because I knew they were under surveillance. That is how I returned to the city of Suleymaniyah, and I told the messenger to thank Fakher Mergasuri for checking on me.Yes, the messenger came and said, "Fakher Mergasuri sent me; he wanted to make sure you are still well and alive." He also mentioned that our attacks in the area have slowed down for now, so we will wait for the next step.Yes, I was back in the city of Suleymaniyah in a friend's house. I avoided going to my parents' house because I knew they were under surveillance.
